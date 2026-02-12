@@ -1,2 +1,2 @@
 # ouzzin.exe
-My new GDI Malware!
+Its malware created by C++ and corrupting your any mbr!
